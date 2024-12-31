@@ -1,0 +1,3 @@
+sudo apt install docker-compose -y
+nano docker-compose.yml
+sudo docker-compose up --build
